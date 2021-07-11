@@ -7,4 +7,4 @@ Here is a short summary of my repository:
 - MultimediaPlayer - Bash script which runs multimedia files. Video presentation is also provided.
 
 
-📫 How to reach me: [igorszemela@gmail.com](igorszemela@gmail.com)
+📫 How to reach me: [igorszemela@gmail.com](mailto:igorszemela@gmail.com)
